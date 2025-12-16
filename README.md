@@ -1,13 +1,11 @@
 # Projetos-Fabi
 
 LOJA DE FIM DE ANO - PÁGINA WEB MELHORADA
-===============
-
-Esta é uma versão melhorada da sua loja de fim de ano!
+==============
 
 ARQUIVOS INCLUÍDOS:
-- index.html: Página principal
-- style.css: Estilos modernos e responsivos
+- inicio.html: Página principal
+- inicio.css: Estilos modernos e responsivos
 
 MELHORIAS IMPLEMENTADAS:
 ✅ Design moderno com gradientes e sombras
