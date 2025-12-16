@@ -1,8 +1,8 @@
 # Projetos-Fabi
 
-===========================================
+===============
 LOJA DE FIM DE ANO - PÁGINA WEB MELHORADA
-===========================================
+===============
 
 Esta é uma versão melhorada da sua loja de fim de ano!
 
