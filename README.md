@@ -30,3 +30,10 @@ CORES GRADIENTES USADAS:
 - Verde Nata;
 - Mel - Botões;
 - Azul - Banner Frete.
+
+
+
+## REPONSÀVIES:
+- Lex
+- Hudson
+- Isabel
