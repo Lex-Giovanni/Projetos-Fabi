@@ -1,6 +1,5 @@
 # Projetos-Fabi
 
-===============
 LOJA DE FIM DE ANO - PÁGINA WEB MELHORADA
 ===============
 
